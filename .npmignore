@@ -1,0 +1,7 @@
+test/
+.babelrc
+yarn.lock
+package-lock.json
+.travis.yml
+.c9
+*.log
